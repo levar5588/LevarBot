@@ -92,5 +92,12 @@
     <audio id="audioPlayer"></audio>
 
     <script src="script.js"></script>
+    <script>
+  const audio = document.getElementById('audioPlayer');
+  audio.addEventListener('error', function (e) {
+    console.error("حدث خطأ في تحميل الصوت:", e);
+  });
+</script>
+
 </body>
 </html>
