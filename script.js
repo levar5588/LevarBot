@@ -73,7 +73,7 @@ let songs = [
         artist: "Ed Sheeran",
         album: "÷ (Divide)",
         albumArtUrl: "https://tse4.mm.bing.net/th?id=OIP.TjS4z1jJTsl6K3-ADIXFywHaEK&pid=Api&P=0&h=220",
-        audioSrc: "audio/Ed Sheeran - perfect (3).mp3",
+        audioSrc: "audio/Ed Sheeran - Perfect (3).mp3",
         videoBgSrc: "video/perfect_bg.mp4", // Path video background khusus lagu ini
         // Lirik dengan timestamp dalam detik
         lyrics: [
